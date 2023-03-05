@@ -1,6 +1,8 @@
 # CoreClassification
 Leushin Alexander, Golunov Arsenii 
 
+[Отчет.docx](https://github.com/amptxs/CoreClassification/files/10892509/default.docx)
+
 2023
 
 ## Описание
